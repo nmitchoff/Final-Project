@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels.api
+pandas_datareader
+datetime
+sklearn.metrics
