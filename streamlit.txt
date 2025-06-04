@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-statsmodels.api
-pandas_datareader
-datetime
-sklearn.metrics
